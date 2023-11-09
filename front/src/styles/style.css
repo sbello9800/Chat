@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
+
+label{
+    text-align: center;
+    
+}
+
+*{
+    font-family: 'Creepster', cursive;
+    color: #fff;
+}
+.header{
+    font-size: xx-large;
+    text-align: center;
+    padding: 20px;
+    color: #fff;
+}
+
